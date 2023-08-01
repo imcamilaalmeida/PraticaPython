@@ -1,4 +1,4 @@
-bill = float(input("Qual o valor da conta a ser paga?"))
+bill = float(input("Qual o valor da conta a ser paga? R$"))
 
 gar= 0.1
 
